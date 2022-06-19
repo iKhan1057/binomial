@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathematicalExpanston</string>
+    <string name="app_inp_digits">23456789</string>
+    <string name="binomial_exp_txt_header">Binomial Expansion</string>
+    <string name="binomial_exp_txt_n">"n = "</string>
+    <string name="binomial_exp_txt_expansion">Expansion</string>
+    <string name="binomial_exp_txt_series">Expanded Series</string>
+    <string name="btn_positive_with_const">(ax+by)<sup><small>n</small></sup></string>
+    <string name="btn_negaitive_with_const">(ax-by)<sup><small>n</small></sup></string>
+    <string name="btn_positive_without_const">(x+y)<sup><small>n</small></sup></string>
+    <string name="btn_negaitive_without_const">(x-y)<sup><small>n</small></sup></string>
+    <string name="btn_positive_with_dynamic_const">(ax+by)<sup><small>n</small></sup> a,b=?</string>
+    <string name="binomial_exp_txt_b">"b = "</string>
+    <string name="binomial_exp_txt_a">"a = "</string>
+    <string name="btn_negative_with_dynamic_const">(ax-by)<sup><small>n</small></sup> a,b=?</string>
+    <string name="binomial_exp_txt_y">"y = "</string>
+    <string name="binomial_exp_txt_x">"x = "</string>
+    <string name="btn_with_dynamic_data">(ax + by)<sup><small>n</small></sup> x,a,y,b=?</string>
+    <string name="btn_negative_with_dynamic_data">(ax - by)<sup><small>n</small></sup> x,a,y,b=?</string>
+    <string name="factorial_txt_header">FACTORIAL of n?</string>
+    <string name="factorial_txt_expansion">Find Factorial</string>
+    <string name="btn_factorial">n!</string>
+</resources>
